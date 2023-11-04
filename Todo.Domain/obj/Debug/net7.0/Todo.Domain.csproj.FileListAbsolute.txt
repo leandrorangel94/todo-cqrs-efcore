@@ -9,3 +9,4 @@ D:\www\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.dll
 D:\www\Todo\Todo.Domain\obj\Debug\net7.0\refint\Todo.Domain.dll
 D:\www\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.pdb
 D:\www\Todo\Todo.Domain\obj\Debug\net7.0\ref\Todo.Domain.dll
+d:\www\Todo\Todo.Domain\obj\Debug\net7.0\Todo.Domain.csproj.AssemblyReference.cache

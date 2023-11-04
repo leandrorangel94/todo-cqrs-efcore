@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bCDxNQ0FGniFANw5sYEkiC0RjfzIefEEvejISWYG4alY93/qOWLIENmEUJxStvJiXYdUAqy+OXYcI/OkqTAvMw==",
+  "dgSpecHash": "OPtQy7kCsbRipZ2Xt9/yf5SjnM1AQs1INvL5uuDLhXRaViDA34SxkJhjpHP802mTDpA2GoSAZCRLDwkyy7Pgww==",
   "success": true,
-  "projectFilePath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
