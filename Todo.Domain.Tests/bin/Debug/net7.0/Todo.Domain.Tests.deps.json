@@ -20,6 +20,14 @@
         }
       },
       "coverlet.collector/3.2.0": {},
+      "Flunt/1.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.5.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -432,6 +440,9 @@
         }
       },
       "Todo.Domain/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.4"
+        },
         "runtime": {
           "Todo.Domain.dll": {}
         }
@@ -458,6 +469,13 @@
       "sha512": "sha512-xjY8xBigSeWIYs4I7DgUHqSNoGqnHi7Fv7/7RZD02rvZyG3hlsjnQKiVKVWKgr9kRKgmV+dEfu8KScvysiC0Wg==",
       "path": "coverlet.collector/3.2.0",
       "hashPath": "coverlet.collector.3.2.0.nupkg.sha512"
+    },
+    "Flunt/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zsKA3Wol1+UeQBYtXuO56+ua6DBUpD5dcp3iAa86W5WcMLOWBMaDXKdqIrrLNgQUOW/U/svecb4ldgqwnC9XDQ==",
+      "path": "flunt/1.0.4",
+      "hashPath": "flunt.1.0.4.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.5.0": {
       "type": "package",

@@ -100,3 +100,4 @@ D:\www\Todo\Todo.Domain.Tests\obj\Debug\net7.0\ref\Todo.Domain.Tests.dll
 d:\www\Todo\Todo.Domain.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
 d:\www\Todo\Todo.Domain.Tests\bin\Debug\net7.0\Todo.Domain.dll
 d:\www\Todo\Todo.Domain.Tests\bin\Debug\net7.0\Todo.Domain.pdb
+d:\www\Todo\Todo.Domain.Tests\bin\Debug\net7.0\Flunt.dll

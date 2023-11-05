@@ -2337,11 +2337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+      "projectUniqueName": "d:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
       "projectName": "Todo.Domain.Tests",
-      "projectPath": "D:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+      "projectPath": "d:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "D:\\www\\Todo\\Todo.Domain.Tests\\obj\\",
+      "outputPath": "d:\\www\\Todo\\Todo.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2361,8 +2361,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+            "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
             }
           }
         }
