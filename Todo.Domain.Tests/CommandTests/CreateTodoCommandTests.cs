@@ -1,17 +1,26 @@
-namespace Todo.Domain.Tests.CommandTests;
+using Todo.Domain.Commands;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-[TestClass]
-public class CreateTodoCommandTests
+namespace Todo.Domain.Tests.CommandTests
 {
-    [TestMethod]
-    public void Dado_um_comando_invalido()
+    [TestClass]
+    public class CreateTodoCommandTests
     {
-        Assert.Fail();
-    }
+        [TestMethod]
+        public void Dado_um_comando_invalido()
+        {
+            var command = new CreateTodoCommand("", "", DateTime.Now);
+            command.Validate();
+            Assert.AreEqual(command.Valid, false);
+            // Assert.AreEqual(command.Invalid, true);
+        }
 
-    [TestMethod]
-    public void Dado_um_comando_valido()
-    {
-        Assert.Fail();
+        [TestMethod]
+        public void Dado_um_comando_valido()
+        {
+            var command = new CreateTodoCommand("Titulo da tarefa", "leandrorangel", DateTime.Now);
+            command.Validate();
+            Assert.AreEqual(command.Valid, true);
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dUXOvu70vu79+LHuv9HLfT/myDTWvwr3k2Z7xwB5HtFdx53XrysdfU4uF746bC/TeGA0+yCIwFX1kdrc1ICD/A==",
+  "dgSpecHash": "6MyCCo9J50Eb4LA8/lA8LUBojQOdb7hRbbq5Zmh5WNREAh+AQhZc0+k4Ml/P7rkTTv/0rxoI8hvJGOJBoAj+OQ==",
   "success": true,
-  "projectFilePath": "d:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+  "projectFilePath": "D:\\www\\Todo\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leandro\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",

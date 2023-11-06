@@ -4,13 +4,13 @@ using Todo.Domain.Commands.Contracts;
 
 namespace Todo.Domain.Commands
 {
-  class CreateTodoCommand : Notifiable, ICommand
+  public class CreateTodoCommand : Notifiable, ICommand
   {
     public string Title { get; set; }
 
     public string User { get; set; }
     public DateTime Date { get; set; }
-    public CreateTodoCommand(DateTime date, string user, string title)
+    public CreateTodoCommand(string title, string user, DateTime date)
     {
       Title = title;
       User = user;
