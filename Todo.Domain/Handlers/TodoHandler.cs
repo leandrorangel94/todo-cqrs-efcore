@@ -17,7 +17,14 @@ namespace Todo.Domain.Handlers
     }
     public ICommandResult Handle(CreateTodoCommand command)
     {
-      throw new NotImplementedException();
+      // Fail Fast Validation
+      command.Validate();
+      if (command.Invalid)
+        return new GenericCommandResult(false, "Ops, parece que sua tarefa está errada!", command.Notifications);
+
+      //Save TODO on SQL
+
+      //Notify user
     }
 
     public ICommandResult Handle(UpdateTodoCommand command)
