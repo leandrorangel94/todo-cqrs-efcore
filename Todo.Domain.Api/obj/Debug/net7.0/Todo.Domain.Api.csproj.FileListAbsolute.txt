@@ -31,3 +31,17 @@ D:\www\Todo\Todo.Domain.Api\obj\Debug\net7.0\refint\Todo.Domain.Api.dll
 D:\www\Todo\Todo.Domain.Api\obj\Debug\net7.0\Todo.Domain.Api.pdb
 D:\www\Todo\Todo.Domain.Api\obj\Debug\net7.0\Todo.Domain.Api.genruntimeconfig.cache
 D:\www\Todo\Todo.Domain.Api\obj\Debug\net7.0\ref\Todo.Domain.Api.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Flunt.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Humanizer.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Todo.Domain.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Todo.Domain.Infra.dll
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Todo.Domain.pdb
+D:\www\Todo\Todo.Domain.Api\bin\Debug\net7.0\Todo.Domain.Infra.pdb
