@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPZWlMCdfQClhIK3c9TY1YZzw1VUd6yRwRPFCIe25v/oaKleNvzQoWUfT+2fXGBJX4EEJqTPXFJuXMj9zTYTZQ==",
+  "dgSpecHash": "yVIy7+NFQpANpEu5h+ewPBkEgdg41FvwGJv2Vi/ob350tf+aNWeDrvEyegX1fGdbiinL9ul1p/6wyQDD2fH9ng==",
   "success": true,
-  "projectFilePath": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "projectFilePath": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leandro\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
