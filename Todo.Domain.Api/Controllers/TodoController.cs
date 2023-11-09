@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Todo.Domain.Commands;
 using Todo.Domain.Entities;
@@ -8,6 +9,7 @@ namespace Todo.Api.Controllers
 {
   [ApiController]
   [Route("v1/todos")]
+  [Authorize]
   public class TodoController : ControllerBase
   {
     [Route("")]
@@ -16,7 +18,8 @@ namespace Todo.Api.Controllers
       [FromServices] ITodoRepository repository
     )
     {
-      return repository.GetAll("leandrorangel");
+      var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
+      return repository.GetAll(user);
     }
 
     [Route("done")]
@@ -36,7 +39,7 @@ namespace Todo.Api.Controllers
     )
     {
       var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
-      return repository.GetByPeriod("leandrorangel", true, DateTime.Now.Date);
+      return repository.GetByPeriod(user, true, DateTime.Now.Date);
     }
 
     [Route("done/tomorrow")]
@@ -46,7 +49,7 @@ namespace Todo.Api.Controllers
     )
     {
       var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
-      return repository.GetByPeriod("leandrorangel", true, DateTime.Now.Date.AddDays(1));
+      return repository.GetByPeriod(user, true, DateTime.Now.Date.AddDays(1));
     }
 
     [Route("undone")]
@@ -66,7 +69,7 @@ namespace Todo.Api.Controllers
     )
     {
       var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
-      return repository.GetByPeriod("leandrorangel", false, DateTime.Now.Date);
+      return repository.GetByPeriod(user, false, DateTime.Now.Date);
     }
 
     [Route("undone/tomorrow")]
@@ -87,7 +90,7 @@ namespace Todo.Api.Controllers
       [FromServices] TodoHandler handler
     )
     {
-      command.User = "leandrorangel";
+      command.User = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
       return (GenericCommandResult)handler.Handle(command);
     }
 
