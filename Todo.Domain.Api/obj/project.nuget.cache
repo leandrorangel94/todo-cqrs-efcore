@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xRufr7Q3rQEUFmTTIPN3LhyjheiPcRoOlirnB/JHb2n4sC6lhdgeRxJgqbyuACQcYgJSKuuvN4EHE1NoY8vtwQ==",
+  "dgSpecHash": "QHl46auD9mfyaRsZ1YbCOw1eLEKIFVHzQZ8OrG4EkcH4TdXxhk5oKFeHbKuR9MXJbpJuRuyYsE8IUdp6uSJxFA==",
   "success": true,
-  "projectFilePath": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+  "projectFilePath": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leandro\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

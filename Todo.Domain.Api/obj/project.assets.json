@@ -1467,11 +1467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectUniqueName": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "projectName": "Todo.Domain.Api",
-      "projectPath": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+      "projectPath": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "d:\\www\\Todo\\Todo.Domain.Api\\obj\\",
+      "outputPath": "D:\\www\\Todo\\Todo.Domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1491,11 +1491,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-              "projectPath": "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+            "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+              "projectPath": "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
             },
-            "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-              "projectPath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+            "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+              "projectPath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
             }
           }
         }
