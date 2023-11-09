@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {}
+    "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {}
   },
   "projects": {
-    "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {
+    "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+        "projectUniqueName": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
         "projectName": "Todo.Domain.Api",
-        "projectPath": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
+        "projectPath": "d:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\www\\Todo\\Todo.Domain.Api\\obj\\",
+        "outputPath": "d:\\www\\Todo\\Todo.Domain.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
-                "projectPath": "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
+              "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+                "projectPath": "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj"
               },
-              "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-                "projectPath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+              "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+                "projectPath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
+    "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+        "projectUniqueName": "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
         "projectName": "Todo.Domain.Infra",
-        "projectPath": "D:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+        "projectPath": "d:\\www\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\www\\Todo\\Todo.Domain.Infra\\obj\\",
+        "outputPath": "d:\\www\\Todo\\Todo.Domain.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -119,8 +119,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
-                "projectPath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
+              "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+                "projectPath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
+    "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "D:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "d:\\www\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\www\\Todo\\Todo.Domain\\obj\\",
+        "outputPath": "d:\\www\\Todo\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
