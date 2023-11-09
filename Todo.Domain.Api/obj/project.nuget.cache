@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fFM2x/M7+WHsaieHfUZdSPHdTSbpd4cYBmElyonbUZJ8EvfFDfNnvWoxOUtQ9zcGve8VqYB6T7b04ylBEp3TWA==",
+  "dgSpecHash": "UVN1XGEK77Bt0+t3KMJZGU6k8LZ+LDsQ6lTWG/F/2hFAn4JGjA+k3e4tLVDr3RzY2tgspSp1mi4Z5IfqJNgseA==",
   "success": true,
   "projectFilePath": "D:\\www\\Todo\\Todo.Domain.Api\\Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Leandro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
