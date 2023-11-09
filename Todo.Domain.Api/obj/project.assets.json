@@ -1192,6 +1192,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "7.0.13",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13",
           "Todo.Domain": "1.0.0"
         },
         "compile": {
